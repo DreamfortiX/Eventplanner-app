@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name"> Mini Events </string>
+    <string name="open" />
+    <string name="close" />
+    <string name="navigation_drawer_open" />
+    <string name="navigation_drawer_close" />
+    <string name="todo">TODO</string>
+</resources>

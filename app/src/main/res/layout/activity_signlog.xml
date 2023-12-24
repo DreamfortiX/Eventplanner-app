@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center_horizontal"
+    tools:context=".signlog">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/miniremov"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="100dp"
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Well Come"
+      android:layout_gravity="center"
+        android:textColor="#ad168b"
+        android:textSize="40dp"
+        android:textStyle="bold"
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="to mini "
+        android:layout_gravity="center"
+        android:textColor="#ad168b"
+        android:textSize="40dp"
+        android:textStyle="bold"
+
+        />  <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Event "
+        android:layout_gravity="center"
+        android:textColor="#ad168b"
+        android:textSize="40dp"
+        android:textStyle="bold"
+
+        />
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:text="Sign Up"
+        android:id="@+id/signup"
+        android:textColor="#fff"
+        android:textSize="15sp"
+        android:layout_marginHorizontal="20dp"
+        android:backgroundTint="#ad168b"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:id="@+id/login"
+        android:layout_marginHorizontal="20dp"
+        android:textColor="#fff"
+        android:textSize="15sp"
+        android:backgroundTint="#ad168b"
+        android:text="Login"
+        />
+
+
+
+</LinearLayout>

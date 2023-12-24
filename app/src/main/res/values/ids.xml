@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imageViewEvent" type="id" />
+    <item name="editTextTitle" type="id" />
+    <item name="editTextDescription" type="id" />
+    <item name="textViewDateLabel" type="id" />
+    <item name="datePicker" type="id" />
+    <item name="textViewTimeLabel" type="id" />
+    <item name="timePicker" type="id" />
+    <item name="btnSave" type="id" />
+    <item name="nav_item7" type="id" />
+    <item name="nav_item6" type="id" />
+</resources>
